@@ -7,9 +7,10 @@ form1 = pyaudio.paInt16 # 16-bit resolution
 chans = 1 # 1 channel
 sampRate = 44100 # 44.1kHz sampling rate
 chunk = 4096 # 2^12 samples for buffer
-recordSecs = 3 # seconds to record
+recordSecs = 11 # seconds to record
 devIndex = 1 # device index found by p.get_device_info_by_index(ii)
-wavOutputFilename = 'test1.wav' # name of .wav file
+wavOutputFilename = "audio_USB_Python.wav" # name of .wav file
+
 
 # create pyaudio instantiation
 audio = pyaudio.PyAudio()
