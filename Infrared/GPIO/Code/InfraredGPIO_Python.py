@@ -23,5 +23,6 @@ try:
         else:
             # If an object is detected
             GPIO.output(ledPin, True)
+            print("Object Detected")
 except KeyboardInterrupt:
     GPIO.cleanup()
