@@ -412,7 +412,7 @@
   (symbol (lib_id "Connector:Conn_01x03_Socket") (at 142.24 93.98 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 38875ad3-7492-4cde-8112-c66ee5f68ded)
-    (property "Reference" "J2" (at 142.24 96.52 90)
+    (property "Reference" "J1" (at 142.24 96.52 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x03_Socket" (at 142.24 99.06 90)
@@ -430,7 +430,7 @@
     (instances
       (project "FPV_3-Pin_Module"
         (path "/d88b4443-d914-4b47-8a50-2a5201342e50"
-          (reference "J2") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -499,7 +499,7 @@
       )
       (project "FPV_3-Pin_Module"
         (path "/d88b4443-d914-4b47-8a50-2a5201342e50"
-          (reference "J1") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
