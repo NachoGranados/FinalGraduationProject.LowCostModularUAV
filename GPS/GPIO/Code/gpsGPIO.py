@@ -2,8 +2,6 @@
 # Source: https://www.instructables.com/Interfacing-GPS-Module-With-Raspberry-Pi/
 
 import serial
-import time
-import string
 import pynmea2
 
 while True:
