@@ -2,10 +2,10 @@
 
 from gps import *
 import time
-    
+
 gpsd = gps(mode=WATCH_ENABLE|WATCH_NEWSTYLE) 
 print("latitude\t longitude       time utc\t\t\t altitude\t epv\t\t ept\t speed\t climb")
-   
+
 while True:
 
 	report = gpsd.next() #
