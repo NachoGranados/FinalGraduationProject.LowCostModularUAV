@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x04_Socket,JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,149.3,-83.86,0.0,top
+J2,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,138.33,-80.28,0.0,top
+J3,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,160.3,-80.27,0.0,top
