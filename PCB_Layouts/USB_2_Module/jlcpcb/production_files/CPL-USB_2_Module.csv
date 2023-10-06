@@ -1,0 +1,5 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,USB_A,USB_A_Stewart_SS-52100-001_Horizontal,144.64,-81.3292,180.0,top
+J2,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,133.5738,-89.021,0.0,top
+J3,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,155.5612,-89.0314,0.0,top
+J4,USB_A,USB_A_Stewart_SS-52100-001_Horizontal,144.64,-96.69,0.0,top
