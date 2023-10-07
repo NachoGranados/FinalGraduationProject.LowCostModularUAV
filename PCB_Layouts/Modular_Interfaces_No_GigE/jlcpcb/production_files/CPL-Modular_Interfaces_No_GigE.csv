@@ -1,0 +1,14 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,USB_A,USB_A_Stewart_SS-52100-001_Horizontal,109.2602,-109.4008,0.0,top
+J2,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,98.23,-102.99,0.0,top
+J3,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,120.21,-103.0,0.0,top
+J4,USB_A,USB_A_Stewart_SS-52100-001_Horizontal,143.3322,-110.669,0.0,top
+J5,USB_A,USB_A_Stewart_SS-52100-001_Horizontal,143.33,-95.31,180.0,top
+J6,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,132.2722,-102.999,0.0,top
+J7,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,154.25,-103.01,0.0,top
+J8,Conn_01x03_Socket,JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical,109.193507,-78.696199,0.0,top
+J9,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,98.21,-75.13,0.0,top
+J10,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,120.2,-75.13,0.0,top
+J11,Conn_01x04_Socket,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,143.273507,-78.616199,0.0,top
+J12,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,132.25,-75.13,0.0,top
+J13,Conn_01x10_Socket,PinSocket_1x10_P2.00mm_Vertical,154.22,-75.12,0.0,top
