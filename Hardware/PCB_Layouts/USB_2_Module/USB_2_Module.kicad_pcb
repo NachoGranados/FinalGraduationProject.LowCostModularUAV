@@ -345,8 +345,8 @@
     (pad "10" thru_hole oval (at 0 18) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 18 "unconnected-(J3-Pin_10-Pad10)") (pinfunction "Pin_10") (pintype "passive+no_connect") (tstamp 4c1076df-3bf5-400f-a4cb-bcd3006d097c))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x10_P2.00mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (offset (xyz 0 0 -3.75))
+      (scale (xyz 1 1 1.5))
       (rotate (xyz 0 0 0))
     )
   )
@@ -425,8 +425,8 @@
     (pad "10" thru_hole oval (at 0 18) (size 1.35 1.35) (drill 0.8) (layers "*.Cu" "*.Mask")
       (net 4 "Net-(J1-GND)") (pinfunction "Pin_10") (pintype "passive") (tstamp 72ae0ac9-094b-4e21-8beb-68f56bc50e77))
     (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.00mm.3dshapes/PinSocket_1x10_P2.00mm_Vertical.wrl"
-      (offset (xyz 0 0 0))
-      (scale (xyz 1 1 1))
+      (offset (xyz 0 0 -3.75))
+      (scale (xyz 1 1 1.5))
       (rotate (xyz 0 0 0))
     )
   )
